@@ -6,6 +6,7 @@ import EyesOnMe from './components/EyesOnMe';
 
 ReactDOM.render(
   <div>
+  <p>react-hooks-event-handling-lab</p>
     <Keypad />
     <EyesOnMe />
   </div>,
